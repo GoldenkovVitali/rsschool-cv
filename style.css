@@ -1,0 +1,24 @@
+body {
+  max-width: 1024px;
+  font-size: 20px;
+  font-family: "Arial", sans-serif;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.photo {
+  width: 20%;
+  border-radius: 50%;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
